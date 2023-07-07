@@ -55,11 +55,59 @@ build CMakeFiles/RubiksCubeSolver.dir/main.cpp.o: CXX_COMPILER__RubiksCubeSolver
   OBJECT_DIR = CMakeFiles/RubiksCubeSolver.dir
   OBJECT_FILE_DIR = CMakeFiles/RubiksCubeSolver.dir
 
-build CMakeFiles/RubiksCubeSolver.dir/GenericRubiksCube.cpp.o: CXX_COMPILER__RubiksCubeSolver_Debug /Users/devishadhanuka/CLionProjects/RubiksCubeSolver/cmake-build-debug/GenericRubiksCube.cpp || cmake_object_order_depends_target_RubiksCubeSolver
+build CMakeFiles/RubiksCubeSolver.dir/GenericRubiksCube.cpp.o: CXX_COMPILER__RubiksCubeSolver_Debug /Users/devishadhanuka/CLionProjects/RubiksCubeSolver/GenericRubiksCube.cpp || cmake_object_order_depends_target_RubiksCubeSolver
   DEP_FILE = CMakeFiles/RubiksCubeSolver.dir/GenericRubiksCube.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fcolor-diagnostics -std=gnu++17
   OBJECT_DIR = CMakeFiles/RubiksCubeSolver.dir
   OBJECT_FILE_DIR = CMakeFiles/RubiksCubeSolver.dir
+
+build CMakeFiles/RubiksCubeSolver.dir/RubiksCube3dArray.cpp.o: CXX_COMPILER__RubiksCubeSolver_Debug /Users/devishadhanuka/CLionProjects/RubiksCubeSolver/RubiksCube3dArray.cpp || cmake_object_order_depends_target_RubiksCubeSolver
+  DEP_FILE = CMakeFiles/RubiksCubeSolver.dir/RubiksCube3dArray.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/RubiksCubeSolver.dir
+  OBJECT_FILE_DIR = CMakeFiles/RubiksCubeSolver.dir
+
+build CMakeFiles/RubiksCubeSolver.dir/RubiksCube1dArray.cpp.o: CXX_COMPILER__RubiksCubeSolver_Debug /Users/devishadhanuka/CLionProjects/RubiksCubeSolver/RubiksCube1dArray.cpp || cmake_object_order_depends_target_RubiksCubeSolver
+  DEP_FILE = CMakeFiles/RubiksCubeSolver.dir/RubiksCube1dArray.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/RubiksCubeSolver.dir
+  OBJECT_FILE_DIR = CMakeFiles/RubiksCubeSolver.dir
+
+build CMakeFiles/RubiksCubeSolver.dir/RubiksCubeBitboard.cpp.o: CXX_COMPILER__RubiksCubeSolver_Debug /Users/devishadhanuka/CLionProjects/RubiksCubeSolver/RubiksCubeBitboard.cpp || cmake_object_order_depends_target_RubiksCubeSolver
+  DEP_FILE = CMakeFiles/RubiksCubeSolver.dir/RubiksCubeBitboard.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/RubiksCubeSolver.dir
+  OBJECT_FILE_DIR = CMakeFiles/RubiksCubeSolver.dir
+
+build CMakeFiles/RubiksCubeSolver.dir/PatternDataBase/NibbleArray.cpp.o: CXX_COMPILER__RubiksCubeSolver_Debug /Users/devishadhanuka/CLionProjects/RubiksCubeSolver/PatternDataBase/NibbleArray.cpp || cmake_object_order_depends_target_RubiksCubeSolver
+  DEP_FILE = CMakeFiles/RubiksCubeSolver.dir/PatternDataBase/NibbleArray.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/RubiksCubeSolver.dir
+  OBJECT_FILE_DIR = CMakeFiles/RubiksCubeSolver.dir/PatternDataBase
+
+build CMakeFiles/RubiksCubeSolver.dir/PatternDataBase/PatternDataBase.cpp.o: CXX_COMPILER__RubiksCubeSolver_Debug /Users/devishadhanuka/CLionProjects/RubiksCubeSolver/PatternDataBase/PatternDataBase.cpp || cmake_object_order_depends_target_RubiksCubeSolver
+  DEP_FILE = CMakeFiles/RubiksCubeSolver.dir/PatternDataBase/PatternDataBase.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/RubiksCubeSolver.dir
+  OBJECT_FILE_DIR = CMakeFiles/RubiksCubeSolver.dir/PatternDataBase
+
+build CMakeFiles/RubiksCubeSolver.dir/PatternDataBase/CornerPatternDataBase.cpp.o: CXX_COMPILER__RubiksCubeSolver_Debug /Users/devishadhanuka/CLionProjects/RubiksCubeSolver/PatternDataBase/CornerPatternDataBase.cpp || cmake_object_order_depends_target_RubiksCubeSolver
+  DEP_FILE = CMakeFiles/RubiksCubeSolver.dir/PatternDataBase/CornerPatternDataBase.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/RubiksCubeSolver.dir
+  OBJECT_FILE_DIR = CMakeFiles/RubiksCubeSolver.dir/PatternDataBase
+
+build CMakeFiles/RubiksCubeSolver.dir/PatternDataBase/math.cpp.o: CXX_COMPILER__RubiksCubeSolver_Debug /Users/devishadhanuka/CLionProjects/RubiksCubeSolver/PatternDataBase/math.cpp || cmake_object_order_depends_target_RubiksCubeSolver
+  DEP_FILE = CMakeFiles/RubiksCubeSolver.dir/PatternDataBase/math.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/RubiksCubeSolver.dir
+  OBJECT_FILE_DIR = CMakeFiles/RubiksCubeSolver.dir/PatternDataBase
+
+build CMakeFiles/RubiksCubeSolver.dir/PatternDataBase/CornerDBMaker.cpp.o: CXX_COMPILER__RubiksCubeSolver_Debug /Users/devishadhanuka/CLionProjects/RubiksCubeSolver/PatternDataBase/CornerDBMaker.cpp || cmake_object_order_depends_target_RubiksCubeSolver
+  DEP_FILE = CMakeFiles/RubiksCubeSolver.dir/PatternDataBase/CornerDBMaker.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/RubiksCubeSolver.dir
+  OBJECT_FILE_DIR = CMakeFiles/RubiksCubeSolver.dir/PatternDataBase
 
 
 # =============================================================================
@@ -69,7 +117,7 @@ build CMakeFiles/RubiksCubeSolver.dir/GenericRubiksCube.cpp.o: CXX_COMPILER__Rub
 #############################################
 # Link the executable RubiksCubeSolver
 
-build RubiksCubeSolver: CXX_EXECUTABLE_LINKER__RubiksCubeSolver_Debug CMakeFiles/RubiksCubeSolver.dir/main.cpp.o CMakeFiles/RubiksCubeSolver.dir/GenericRubiksCube.cpp.o
+build RubiksCubeSolver: CXX_EXECUTABLE_LINKER__RubiksCubeSolver_Debug CMakeFiles/RubiksCubeSolver.dir/main.cpp.o CMakeFiles/RubiksCubeSolver.dir/GenericRubiksCube.cpp.o CMakeFiles/RubiksCubeSolver.dir/RubiksCube3dArray.cpp.o CMakeFiles/RubiksCubeSolver.dir/RubiksCube1dArray.cpp.o CMakeFiles/RubiksCubeSolver.dir/RubiksCubeBitboard.cpp.o CMakeFiles/RubiksCubeSolver.dir/PatternDataBase/NibbleArray.cpp.o CMakeFiles/RubiksCubeSolver.dir/PatternDataBase/PatternDataBase.cpp.o CMakeFiles/RubiksCubeSolver.dir/PatternDataBase/CornerPatternDataBase.cpp.o CMakeFiles/RubiksCubeSolver.dir/PatternDataBase/math.cpp.o CMakeFiles/RubiksCubeSolver.dir/PatternDataBase/CornerDBMaker.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5
   OBJECT_DIR = CMakeFiles/RubiksCubeSolver.dir
   POST_BUILD = :
